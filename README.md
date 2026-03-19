@@ -18,6 +18,7 @@ Overall, GigShield provides a scalable, transparent, and intelligent insurance s
 
 
 ✨ Features
+
 🔹 AI-Powered Risk Assessment
 
 Generates real-time risk scores (0–100%) for each worker based on their city.
@@ -118,6 +119,7 @@ Claims
 Fraud flags
 
 INSTALLATION STEPS
+
 To set up and run the GigShield project, you need to initialize three separate services: the Frontend, the Backend, and the AI Service.
 
 Follow these steps for each service:
@@ -186,6 +188,7 @@ TIP
 Admin Access: To access the Admin Panel, ensure you have at least one worker in your MongoDB collection with is_admin: true. You can then log in through the /admin/login page.
 
 ▶️ Usage Instructions
+
 🔹 1. Start the Application
 
 Run all three services:
