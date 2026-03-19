@@ -1,4 +1,4 @@
-📌 Project Description
+📌 PROJECT DESCRIPTION
 
 GigShield is an AI-powered risk assessment and autonomous micro-insurance platform designed specifically for the growing gig economy workforce, including delivery partners from platforms like Swiggy, Zomato, Amazon, and Zepto. These workers often face unpredictable income loss due to environmental and urban disruptions such as heavy rainfall, extreme heat, high pollution levels, traffic congestion, or government-imposed restrictions. Traditional insurance systems are not optimized for such dynamic and short-term risks, making financial protection inaccessible or inefficient for gig workers.
 
@@ -17,7 +17,7 @@ Additionally, the platform includes a rule-based AI chatbot that assists users b
 Overall, GigShield provides a scalable, transparent, and intelligent insurance solution that empowers gig workers with financial security while leveraging AI to automate decision-making and risk management.
 
 
-✨ Features
+✨ FEATURES
 
 🔹 AI-Powered Risk Assessment
 
@@ -187,7 +187,7 @@ TIP
 
 Admin Access: To access the Admin Panel, ensure you have at least one worker in your MongoDB collection with is_admin: true. You can then log in through the /admin/login page.
 
-▶️ Usage Instructions
+▶️ USAGE INSTRUCTION
 
 🔹 1. Start the Application
 
